@@ -1,6 +1,6 @@
 <source file="../trial/src/Sample.java" startline="2" endline="10">
 {
-    if (0 <= value) {
+    if (0 < value) {
         value --;
     }
 
