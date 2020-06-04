@@ -4,8 +4,8 @@
 <runinfo ncompares="1" cputime="12950"/>
 
 <clone nlines="9" similarity="83">
-<source file="../trial/src/Sample.java" startline="2" endline="10" pcid="1"></source>
-<source file="../trial/src/Sample.java" startline="12" endline="20" pcid="4"></source>
+<source file="./storage/T45K/trial_0/src/Sample.java" startline="2" endline="10" pcid="1"></source>
+<source file="./storage/T45K/trial_0/src/Sample.java" startline="12" endline="20" pcid="4"></source>
 </clone>
 
 </clones>
